@@ -1,22 +1,16 @@
-![Rahmat Aulia Banner](https://user-images.githubusercontent.com/45172775/179356306-9a3522a8-b26d-47b8-bfdf-bd052dbb36ce.svg)
-
 # Hi, I'm Rahmat Aulia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 I am a full-stack software engineer with a strong interest in building projects that are accessible to everyone.
-
-I also have a deep passion for collaborations, contributing to open sources, and community engagements.
 
 You can find me here 👇
 
 <div align="center">
 <a href="https://www.instagram.com/jsonapi/"><img src="https://img.shields.io/badge/-Instagram-F3F7FA?logo=instagram&logoColor=2962FF&style=for-the-badge&logoWidth=30" alt="Instagram"></a>
 <a href="https://rubibyte.com"><img src="https://img.shields.io/badge/-Website-F3F7FA?logo=web&logoColor=2962FF&style=for-the-badge&logoWidth=30" alt="Website"></a>
-<a href="https://rahmataulia.my.id"><img src="https://img.shields.io/badge/-Website-F3F7FA?logo=web&logoColor=2962FF&style=for-the-badge&logoWidth=30" alt="Website"></a>
+<a href="https://rahmataulia.my.id"><img src="https://img.shields.io/badge/-PersonalWebsite-F3F7FA?logo=web&logoColor=2962FF&style=for-the-badge&logoWidth=30" alt="Personal Website"></a>
 </div>
 
 <br> 
-
-![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
 ## 💻 Skills
 
