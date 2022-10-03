@@ -1,6 +1,6 @@
 # Hi, I'm Rahmat Aulia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-I am a network & software engineer, system administrator with a strong interest in building projects that are accessible to everyone.
+I am a network/system administrator & software engineer with a strong interest in building projects that are accessible to everyone.
 
 You can find me here 👇
 
